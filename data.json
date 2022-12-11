@@ -1,0 +1,104 @@
+{
+    "products": [
+      {
+        "productName": "long top",
+        "price": "2500",
+        "productImg": "https://i.postimg.cc/Vvn0NkrP/top2.webp"
+      },
+      {
+        "productName": "top",    
+        "price": "300",
+        "productImg": "https://i.postimg.cc/3JbMF1zb/top.webp"
+      },
+      {
+        "productName": "western wear",
+        "price": "1000",
+        "productImg": "https://i.postimg.cc/fWvmTCKw/women1.webp"
+      },
+      {
+        "productName": " western wears",
+        "price": "1500",
+        "productImg": "https://i.postimg.cc/X7LnGZGb/women2.webp"
+      },
+      {
+        "productName": " crop tops",
+        "price": "1000",
+        "productImg": "https://i.postimg.cc/JzCL6Nfk/women3.webp"
+      },
+      {
+        "productName": "butterfly chain",
+        "price": "250",
+        "productImg": "https://i.postimg.cc/D0gmwx3V/chain1.webp"
+      },
+      {
+        "productName": "shoe",
+        "price": "2000",
+        "productImg": "https://i.postimg.cc/6QNCpmDp/shoe2.webp"
+      },
+      {
+        "productName": "kaftan tops",
+        "price": "1000",
+        "productImg": "https://i.postimg.cc/0NMmZqDn/kurti3.webp"
+      },
+      {
+        "productName": "long tops",
+        "price": "1500",
+        "productImg": "https://i.postimg.cc/rFN9tcNt/kurti2.webp"
+      },
+      {
+        "productName": "kurti tops",
+        "price": "1000",
+        "productImg": "https://i.postimg.cc/c4wb9VMs/kurti1.webp"
+      },
+      {
+        "productName": "chain",
+        "price": "1000",
+        "productImg": "https://i.postimg.cc/Wp6NBf77/chain2.webp"
+      },
+      {
+        "productName": "shoe",
+        "price": "13,395",
+        "productImg": "https://i.postimg.cc/mrPcyvK8/menshoe.webp"
+      },
+      {
+        "productName": "i phone",
+        "price": "50000",
+        "productImg": "https://i.postimg.cc/br0HmwJS/phone.webp"
+      },
+      {
+        "productName": "tv",
+        "price": "50000",
+        "productImg": "https://i.postimg.cc/L82CZpph/tv2.webp"
+      },
+      {
+        "productName": "Hoop Earring",
+        "price": "₹4,999",
+        "productImg": "https://i.postimg.cc/jjK4FQ55/yellow-gold.webp"
+      },
+      {
+        "productName": "smartwatch",
+        "price": "1,899",
+        "productImg": "https://i.postimg.cc/C5Hc1PdW/smartwatch.webp"
+      },
+      {
+        "productName": "",
+        "price": "12,999",
+        "productImg": "https://i.postimg.cc/g2v203K3/tv3.webp"
+      },
+      {
+        "productName": " Bracelet",
+        "price": "300",
+        "productImg": "https://i.postimg.cc/MHPdVcbD/chain.webp"
+      },
+      {
+        "id": "20",
+        "productName": " Bangle Set",
+        "productImg": "https://i.postimg.cc/GtXbW1v2/bangles.webp"
+      },
+      {
+        "productName": "Jewel Set ",
+        "price": "700",
+        "productImg": "https://i.postimg.cc/dVrV0gYW/joker.webp"
+      }
+    ]
+  }
